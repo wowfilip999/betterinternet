@@ -8,7 +8,7 @@ czech-craft.eu##.container-right
 ||b.ccb.cz/img$image
 
 ! 2024-05-22 https://www.reddit.com annoying login window
-||accounts.google.com
+||accounts.google.com^
 ! 2024-05-22 https://www.openoffice.cz
 ||i.ccb.cz$image
 ! 2024-05-22 https://www.linuxexpres.cz/
