@@ -1,0 +1,18 @@
+||czech-craft.eu/static/uploads/abanners/ss1.png$image
+czech-craft.eu##.container-right
+
+! 2024-05-20 https://help.bethesda.net
+||b.ccb.cz/img/^
+
+! 2024-05-22 https://www.openoffice.cz
+||b.ccb.cz/img$image
+
+! 2024-05-22 https://www.reddit.com annoying login window
+||accounts.google.com/gsi/iframe/$subdocument
+
+! 2024-05-22 https://www.openoffice.cz
+||i.ccb.cz$image
+! 2024-05-22 https://www.linuxexpres.cz/
+||a.ccb.cz$image
+
+
