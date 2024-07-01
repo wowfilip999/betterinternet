@@ -7,5 +7,7 @@ czech-craft.eu##.container-right
 ||i.ccb.cz$image
 ! 2024-05-22 https://www.linuxexpres.cz/
 ||a.ccb.cz$image
+www.impuls.cz###banner000 > div
+www.impuls.cz##.show.ads-popup
 
 
